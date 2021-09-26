@@ -47,7 +47,7 @@ If you would like to work in a project together, feel free to ask me</p>
 <a href="mailto:atillatahaa@gmail.com"><img src="https://img.shields.io/badge/-atillatahaa@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/atilla.taha"><img src="https://img.shields.io/badge/-atilla.taha-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/AtillaTahaa"><img src="https://img.shields.io/badge/-AtillaTahaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCmoD0x4Z9vdG2PCsI5p8FYg"><img src="https://img.shields.io/badge/-AtillaTaha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=red"/></a>
+<a href="https://www.youtube.com/channel/UCmoD0x4Z9vdG2PCsI5p8FYg"><img src="https://img.shields.io/badge/-AtillaTaha-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
 
 ---
