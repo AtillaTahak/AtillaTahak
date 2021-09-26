@@ -3,11 +3,7 @@
 
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Atilla Taha Kördüğüm </h1>
 
-<p align="center" width="150px"> A Full-stack web developer. I enjoy solving programming puzzles and problems, and creating nice looking websites
-
-I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world.
-
-If you would like to work in a project together, feel free to ask me</p>
+<p align="center" width="150px">A Full-stack web developer. I enjoy solving programming puzzles and problems, and creating nice looking websites. I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world. If you would like to work in a project together, feel free to ask me</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BAtillaTahak%7D/count.svg" alt="visitor badge"/></p>
