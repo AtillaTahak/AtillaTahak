@@ -3,7 +3,10 @@
 
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Atilla Taha Kördüğüm </h1>
 
-<p align="center" width="150px">A Full-stack web developer. I enjoy solving programming puzzles and problems, and creating nice looking websites. I'm currently studying at Microverse, an online school for remote software developers. Learning to work by collaborating and pair-programming with students around the world. If you would like to work in a project together, feel free to ask me</p>
+<p align="center" width="150px">I'm <i>a full-stack developer</i> specializing in using HTML,CSS,JavaScript,Asp.Net MVC to build software solutions for small businesses. Also, I built a Qr menu system for restaurants and an automated system for hospitals
+
+I’m currently completing coursework at Microverse, a remote software development that allows devs from all over the world to pair-program and build projects together. So if we take into account previous experiences, I know two sides consider what they want to and programer what they want to. Currently Searching for new Opportunities
+</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BAtillaTahak%7D/count.svg" alt="visitor badge"/></p>
