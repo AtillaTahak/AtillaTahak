@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I am Atilla Taha Kördüğüm </h1>
 
-<p align="center" width="150px">I'm <i>a full-stack developer</i> specializing in using HTML,CSS,JavaScript,Asp.Net MVC to build software solutions for small businesses. Also, I built a Qr menu system for restaurants and an automated system for hospitals
+<p align="center" width="150px">I'm <i>a full-stack developer</i> specializing in using HTML, CSS, JavaScript, Asp.Net MVC, Ruby, Ruby on Rails to build software solutions for small businesses. Also, I built a Qr menu system for restaurants and an automated system for hospitals
 
 I’m currently completing coursework at Microverse, a remote software development that allows devs from all over the world to pair-program and build projects together. So if we take into account previous experiences, I know two sides consider what they want to and programer what they want to. Currently Searching for new Opportunities
 </p>
@@ -18,6 +18,7 @@ I’m currently completing coursework at Microverse, a remote software developme
 
 ![C#](https://img.shields.io/badge/c%23-%2305122A?style=flat&logo=c-sharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
@@ -42,6 +43,7 @@ I’m currently completing coursework at Microverse, a remote software developme
 ### :link: &nbsp;Connect with me
 
 <p align="center">
+<a href="https://atillataha.netlify.app"><img src="https://img.shields.io/badge/-atillataha.netlify.app-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=black"/></a>
 <a href="https://atillataha.blogspot.com"><img src="https://img.shields.io/badge/-atillataha.blogspot.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/atilla-taha-kördüğüm-a93702186/"><img src="https://img.shields.io/badge/-Atilla%20Taha%20Kördüğüm-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:atillatahaa@gmail.com"><img src="https://img.shields.io/badge/-atillatahaa@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -53,4 +55,4 @@ I’m currently completing coursework at Microverse, a remote software developme
 ---
 Credit: [AtillaTahak](https://github.com/AtillaTahak)
 
-Last Updated On: 26/09/2021
+Last Updated On: 30/08/2021
